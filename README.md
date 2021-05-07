@@ -38,3 +38,6 @@ npm start
 ```
 
 The application will now be running on **localhost:3000**
+
+## Screenshots ##
+![Weather App](https://raw.githubusercontent.com/Laemonz/react-weather-app/main/public/screenshot1.png)
