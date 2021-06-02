@@ -5,12 +5,6 @@ This is a small weather application developed using the React framework and the 
 ### Install Node JS
 https://nodejs.org/en/
 
-### Install create-react-app
-Use the following command to install create-react-app
-```bash
-npm install -g create-react-app
-```
-
 ## Obtain an API Key ##
 Go to https://openweathermap.org and register for a free api key.
 Then go to the root folder of the project and create a file named
