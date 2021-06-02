@@ -3,7 +3,7 @@ This is a small weather application developed using the React framework and the 
 
 ## Prerequisites ##
 ### Install Node JS
-Go to https://nodejs.org/en/ to install nodejs
+https://nodejs.org/en/
 
 ### Install create-react-app
 Use the following command to install create-react-app
@@ -31,7 +31,7 @@ Run the following commands to install the required packages
 npm install
 ```
 
-To run the application, type the following command
+To run the app, type
 
 ```bash
 npm start
