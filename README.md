@@ -5,7 +5,7 @@ This is a small weather application developed using the React framework and the 
 ### Install Node JS
 https://nodejs.org/en/
 
-## Obtain an API Key ##
+### Obtain an API Key ###
 Go to https://openweathermap.org and register for a free api key.
 Then go to the root folder of the project and create a file named
 ```bash
